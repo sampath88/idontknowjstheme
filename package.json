@@ -4,6 +4,17 @@
   "description": "best javascript theme",
   "version": "0.0.1",
   "publisher": "sampath",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sampath88/idontknowjstheme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vscode theme",
+    "js theme",
+    "i don't know js theme"
+  ],
   "engines": {
     "vscode": "^1.58.0"
   },
