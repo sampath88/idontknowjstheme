@@ -1,14 +1,20 @@
-# idontknowjstheme
+# I don't know js theme
 
-# vscode theme
+# vscode dark theme
+
+Hi, my name is Sampath and I am a software devloper. I am always curious to do these kind of UI things, and i will update the extension regularly keep in touch with it.
+
+-userfriendly theme for developers
 
 # README
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Preview of theme and colors
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Theme Screenshot](https://i.postimg.cc/BvFS8S2z/image-1.png)
+
+![Theme Screenshot](https://i.postimg.cc/k5vHYLC4/image-2.png)
+
+![Theme Screenshot](https://i.postimg.cc/G2pX72z7/image-3.png)
 
 ### For more information
 
@@ -16,4 +22,3 @@ You can author your README using Visual Studio Code. Here are some useful editor
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
--userfriendly theme for developers
